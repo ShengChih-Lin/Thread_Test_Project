@@ -12,3 +12,5 @@ reports/
 # 虛擬環境（雖然你目前的名稱是 qa_env 且好像在資料夾外，但加著保險）
 venv/
 .env
+
+qa_env/

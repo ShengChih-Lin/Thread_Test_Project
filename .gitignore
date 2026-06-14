@@ -1,0 +1,14 @@
+# Python 快取
+__pycache__/
+*.pyc
+
+# 作業系統暫存檔
+.DS_Store
+
+# 測試日誌與報告（通常不需要上傳到 GitHub）
+logs/
+reports/
+
+# 虛擬環境（雖然你目前的名稱是 qa_env 且好像在資料夾外，但加著保險）
+venv/
+.env
